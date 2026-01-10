@@ -1,20 +1,22 @@
-# Hi 👋 I'm a Business Informatics Student
-🎓 Business Informatics student with an interest in software development  
-💻 Working mainly with **Java** and **SQL**  
-🤖 Letting AI handle the rest  
----
-## 🔭 Currently working on
+Hey there! 👋
+
+I'm Mahmoud, a Business Informatics student based in Germany.
+
+I build software as part of my studies and in my free time — mostly with Java and SQL.  
+If something gets tricky, I let AI help me figure it out 🤖
+
+Right now, I'm focused on:
 - University projects
 - Java applications
 - Database design & SQL queries
-- Improving my coding skills
----
-## 🛠️ Tech Stack
-- **Languages:** Java, SQL  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, Visual Studio Code  
-- **Other:** AI-assisted development 🤖
----
-## 📫 How to reach me
-- GitHub: **MahmoudAboAyyash**
-- LinkedIn & Instagram (check my profile)
+- Improving my overall coding skills
+
+My current tech stack includes:
+- Java, SQL
+- MySQL
+- Git & GitHub
+- Visual Studio Code
+
+I'm still learning, experimenting, and building step by step 🚀
+
+If you want to connect, feel free to check out my LinkedIn or Instagram.
