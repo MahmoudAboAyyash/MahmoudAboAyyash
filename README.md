@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Mahmoud, a Business Informatics student based in Germany.
+I'm Mahmoud Abo Ayyash, a Business Informatics student based in Germany.
 
 I build software as part of my studies and in my free time — mostly with Java and SQL.  
 If something gets tricky, I let AI help me figure it out 🤖
